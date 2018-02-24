@@ -8,10 +8,13 @@ h1 {
   font-weight: normal;
   font-size: 50px;
   color: white;
-  text-align: center;
 }
 
 a {
   font-size: 16px;
   color: Aquamarine;
+}
+
+.footer {
+  text-align: right;
 }
